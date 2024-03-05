@@ -1,0 +1,8 @@
+USA 171.31
+France 231.2
+Germany 207.7
+UK 209.2
+Turkey 174.8
+Spain 213.8
+Italy 227.1
+Japan 176.82

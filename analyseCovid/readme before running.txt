@@ -1,0 +1,1 @@
+takes arguments from console, this one is configured to take covid.txt file in the same directory.
